@@ -56,6 +56,7 @@ Contact
 For any questions or inquiries, please reach out to:
 
 Selvamani A: selvamani.a11@gmail.com
+
 Vikas Gowda
 Thank you for checking out the Orrery Web App! Happy exploring! 🌌includes the necessary resources.
 
