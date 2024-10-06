@@ -1,7 +1,7 @@
-Orrery Web App
+##Orrery Web App
 Welcome to the Orrery Web App! This project provides an interactive platform for visualizing Near-Earth Objects (NEOs), allowing users to explore their paths and learn more about their characteristics.
 
-Table of Contents
+##Table of Contents:
 Features
 Technologies Used
 Live Demo
@@ -9,8 +9,9 @@ Installation
 Usage
 API
 Contributing
-License
 Contact
+
+
 Features
 Interactive Visualization: View the orbits of NEOs in a visually appealing and interactive manner.
 Search Functionality: Quickly find specific NEOs by name or other attributes.
@@ -20,8 +21,6 @@ Technologies Used
 Frontend: HTML, CSS, JavaScript
 Libraries: D3.js for data visualization, Axios for API requests
 Hosting: GitHub Pages for easy access and deployment
-Live Demo
-You can access the live application here.
 
 Installation
 To set up the Orrery Web App locally, follow these steps:
@@ -49,8 +48,7 @@ Create a new branch (git checkout -b feature/YourFeature).
 Make your changes and commit them (git commit -m 'Add your feature').
 Push to the branch (git push origin feature/YourFeature).
 Open a pull request.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
 
 Contact
 For any questions or inquiries, please reach out to:
@@ -58,6 +56,8 @@ For any questions or inquiries, please reach out to:
 Selvamani A: selvamani.a11@gmail.com
 
 Vikas Gowda
+
+
 Thank you for checking out the Orrery Web App! Happy exploring! 🌌includes the necessary resources.
 
 
